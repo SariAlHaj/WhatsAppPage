@@ -16,7 +16,7 @@
             display: inline-block;
             width: 100px;
             height: 100px;
-background-image: url('whatsapp.svg');    
+             background-image: url('WhatsApp.svg');    
 background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
